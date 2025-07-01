@@ -1,0 +1,2 @@
+# projetos-pyc
+ Projetos PyCharm
